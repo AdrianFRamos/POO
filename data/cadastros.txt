@@ -1,0 +1,6 @@
+Adrian,teste@teste.com,123456
+dsfgdfgdfg,aaa@aaaa.aaa,123456
+Adrian,teste@teste.com,123456
+produto,Arroz,10,2,0,15,Arroz
+produto,Feijao,10,3,0,15,Feijao
+produto,Frango,35,5,0,15,Frango,Frango
